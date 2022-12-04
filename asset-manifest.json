@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/re-cv-project/static/css/main.2a2da00a.css",
+    "main.js": "/re-cv-project/static/js/main.a9ae9381.js",
+    "static/media/delete.svg": "/re-cv-project/static/media/delete.5fb40b51c5103cac8a3f2cc3b2b8f95d.svg",
+    "index.html": "/re-cv-project/index.html",
+    "static/media/add.svg": "/re-cv-project/static/media/add.f64f5afc20cdd3d5af60dfc1aa2187bb.svg",
+    "main.2a2da00a.css.map": "/re-cv-project/static/css/main.2a2da00a.css.map",
+    "main.a9ae9381.js.map": "/re-cv-project/static/js/main.a9ae9381.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2da00a.css",
+    "static/js/main.a9ae9381.js"
+  ]
+}
